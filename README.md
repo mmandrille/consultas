@@ -1,3 +1,12 @@
-# consultas
+Para poder probar este proyecto solo deben Instalar:
+*  Python3+
 
-Sistema de Consultas y Respuestas + Chat, para organismos gubernamentales
+Correr:
+*  pip install -r requeriments.txt
+*  python3 manage.py makemigrations
+*  python3 manage.py migrate 
+*  python3 manage.py createsuruser
+*  python3 manage.py runserver
+
+Podran accederlo via: http://localhost:8000
+
